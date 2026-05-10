@@ -6,7 +6,7 @@ export default function Home() {
       </h1>
 
       <p className="text-gray-400 text-lg mb-6">
-        Automated Trading Solutions
+        Automated Forex Trading Solutions
       </p>
 
       <button className="bg-green-500 px-6 py-3 rounded-xl text-black font-bold hover:bg-green-400">
